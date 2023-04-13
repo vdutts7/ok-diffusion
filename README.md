@@ -15,3 +15,9 @@ ControlNet copies the weights of each block of Stable Diffusion into a trainable
 ![image](https://user-images.githubusercontent.com/63992417/231795326-15eb4550-79b2-479e-bc26-8f19f49f420c.png)
 
 _ControlNet models can, for example, derive edge lines from images and use them for further generation. | Image: Zhang, Agrawala_
+
+
+![image](https://user-images.githubusercontent.com/63992417/231795826-96199f92-200b-4ccc-b851-9ccc86a95bfd.png)
+
+_Human pose recognition enables consistent results for new character generations. | Image: Zhang, Agrawala
+_
